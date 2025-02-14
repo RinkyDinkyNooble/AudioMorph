@@ -37,3 +37,5 @@ PyInstaller is distributed under a dual-licensing scheme using both the GPL 2.0 
 
 ## Unlicense / Public Domain | yt-dlp
 yt-dlp is in the public domain. More information at https://github.com/yt-dlp/yt-dlp?tab=Unlicense-1-ov-file
+
+**Note**: License compliance among several different licenses is complicated. Therefore, I provided as much information as I could find. The 'redundent' information is for clarity purposes.
