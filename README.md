@@ -11,13 +11,13 @@ A simple, open-source application that allows you to **convert audio formats** u
 ## Installation
 
 1. **Download the ZIP file**:
-   Download the latest version of the application for you operating system (found at the [releases page](#https://github.com/RinkyDinkyNooble/AudioMorph/releases)).
+   Download the latest version of the application for you operating system (found at the releases page).
    
 2. **Extract the ZIP file**:
    Once downloaded, extract the contents of the `.zip` file to your desired location.
 
 #### References
-1. [FFmpeg](#https://github.com/FFmpeg/FFmpeg): https://github.com/FFmpeg/FFmpeg
-2. [yt-dlp](#https://github.com/yt-dlp/yt-dlp): https://github.com/yt-dlp/yt-dlp
-3. [PyQt6](#https://pypi.org/project/PyQt6/#description): https://pypi.org/project/PyQt6/#description
-4. [pyinstaller](#https://github.com/pyinstaller/pyinstaller): https://github.com/pyinstaller/pyinstaller
+1. **FFmpeg**: https://github.com/FFmpeg/FFmpeg
+2. **yt-dlp**: https://github.com/yt-dlp/yt-dlp
+3. **PyQt6**: https://pypi.org/project/PyQt6/#description
+4. **pyinstaller**: https://github.com/pyinstaller/pyinstaller
