@@ -1,4 +1,4 @@
-# Audio Converter and YouTube Downloader
+# Audio Converter
 
 A simple, open-source application that allows you to **convert audio formats** using FFmpeg and **download audio from YouTube videos** using yt-dlp.
 
