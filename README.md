@@ -25,7 +25,7 @@ A simple, open-source application that allows you to **convert audio formats** u
 ### License
 This application is licensed under the GNU General Public License Version 3. It is **NOT** licensed under a commercial license and is compliant with all the relevant licenses mentioned below.
 
-#### LGPL v2.1 | FFmpeg
+#### LGPL v2.1 / GPL v3 | FFmpeg
 FFmpeg legal considerations: https://www.ffmpeg.org/legal.html
 The FFmpeg directory in this application comes with the GPL-v3 license and the website considers FFmpeg licensed under LGPL. FFmpeg source code can be found at https://github.com/FFmpeg/FFmpeg/commit/19a2d26177
 
